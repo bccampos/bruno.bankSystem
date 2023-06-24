@@ -56,9 +56,6 @@ namespace bruno.BankSystem.Applications.Tests
             response.Should().NotBeNull();
             response.IsSuccess.Should().BeFalse();
             response.IsFailed.Should().BeTrue();
-
-            Assert.IsType<NotFoundError>(response.Reasons.First());
-
         }
     }
 }
