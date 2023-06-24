@@ -21,6 +21,7 @@
 
 # Tests cover all business rules requirements 
 •	WebApiTests / ApplicationTests / DomainTests / ArchitectureTests
+
 ![image](https://github.com/bccampos/bruno.bankSystem/assets/36283909/7f87eed2-2a9c-4d86-8a87-5e6bdef4ba52)
 
 
