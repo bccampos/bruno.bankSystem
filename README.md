@@ -12,10 +12,10 @@
 
 ![image](https://github.com/bccampos/bruno.bankSystem/assets/36283909/250b2b10-691b-4ea5-9b9b-bb1acf6041b6)
 
--> CQRS 
+###CQRS  
 ![image](https://github.com/bccampos/bruno.bankSystem/assets/36283909/fa920452-c100-4dfa-84e4-1ccf67e73dde)
 
--> Domain / Business Rules 
+###Domain / Business Rules 
 ![image](https://github.com/bccampos/bruno.bankSystem/assets/36283909/37ce07ac-98e1-4e9f-af2c-f6b4947ff2e4)
 
 # Swagger UI 
